@@ -1,0 +1,5 @@
+﻿  source.cpp
+d:\c++work\v_work\all\all\source.cpp(363): warning C4715: “get_intersection_plane”: 不是所有的控件路径都返回值
+d:\c++work\v_work\all\all\source.cpp(476): warning C4715: “get_adjacency”: 不是所有的控件路径都返回值
+  All.vcxproj -> D:\C++work\v_work\All\Debug\All.exe
+  All.vcxproj -> D:\C++work\v_work\All\Debug\All.pdb (Partial PDB)
